@@ -1,6 +1,6 @@
 <?php
 
-namespace Mckenziearts\LaravelCommand\Console\Commands;
+namespace TryChenhai\LaravelCommand\Console\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 

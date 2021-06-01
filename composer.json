@@ -1,7 +1,7 @@
 {
   "name": "trychenhai/laravel-command",
   "description": "A simple Laravel package to provide artisan new commands",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "type":"laravel-package",
   "keywords": [
     "generators",
