@@ -1,0 +1,44 @@
+{
+  "name": "try_chenhai/laravel-command",
+  "description": "A simple Laravel package to provide artisan new commands",
+  "version": "1.0.1",
+  "type":"laravel-package",
+  "keywords": [
+    "generators",
+    "laravel",
+    "artisan-cli",
+    "observer",
+    "helper",
+    "repository"
+  ],
+  "homepage": "https://github.com/TryChenhai/laravel-command",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chenhai Try",
+      "email": "chenhaitry64@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.3|^8.0",
+    "illuminate/support": "^5.7.19",
+    "illuminate/console": "^5.7.19"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mckenziearts\\LaravelCommand\\": "src"
+    }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "extra": {
+    "branch-alias": {
+      "master": "1.0.0"
+    },
+    "laravel": {
+      "providers": [
+        "TryChenhai\\LaravelCommand\\LaravelCommandServiceProvider"
+      ]
+    }
+  }
+}

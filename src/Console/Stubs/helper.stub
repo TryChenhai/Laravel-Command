@@ -1,0 +1,13 @@
+<?php
+/**
+ * @copyright Copyright (c) 2018. TryChenhai
+ * @author    TryChenhai <chenhaitry64@gmail.com>
+ * @link      https://github.com/TryChenhai/laravel-command
+ */
+
+namespace DummyNamespace;
+
+class DummyClassHelper
+{
+
+}
