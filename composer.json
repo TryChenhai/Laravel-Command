@@ -1,5 +1,5 @@
 {
-  "name": "try_chenhai/laravel-command",
+  "name": "trychenhai/laravel-command",
   "description": "A simple Laravel package to provide artisan new commands",
   "version": "1.0.1",
   "type":"laravel-package",
@@ -11,7 +11,7 @@
     "helper",
     "repository"
   ],
-  "homepage": "https://github.com/TryChenhai/laravel-command",
+  "homepage": "https://github.com/trychenhai/laravel-command",
   "license": "MIT",
   "authors": [
     {
@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Mckenziearts\\LaravelCommand\\": "src"
+      "TryChenhai\\LaravelCommand\\": "src"
     }
   },
   "minimum-stability": "stable",
